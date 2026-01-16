@@ -1,3 +1,8 @@
+# THIS ENTIRE LIBRARY WAS VIBE CODED WITH CLAUDE.AI
+
+### Watch Here
+https://youtu.be/sGt9LNyktoo
+
 # Comprehensive Quantitative Finance Library
 
 ## 📋 Overview
@@ -1318,5 +1323,6 @@ This library implements models from:
 This comprehensive quantitative finance library is provided for educational use.
 
 ---
+
 
 
